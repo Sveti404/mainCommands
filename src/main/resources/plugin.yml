@@ -1,0 +1,8 @@
+  name: mainCommands
+  main: io.github.sveti404.mainCommands.mainCommands
+  version: 1.0.2
+  api-version: 1.16
+  commands:
+    snowIsland:
+    world:
+    shop:
